@@ -1,5 +1,5 @@
-# new_variants_of_RSF
-used in a paper under review as an anonymous submission for a conference.
+# New Variations of Random Survival Forests and Applications to Age-Related Disease Data
+These files have been used in the paper: New Variations of Random Survival Forests and Applications to Age-Related Disease Data, which is under review as an anonymous submission for a conference.
 
 RSF_d0.py and sksurve_RSF.py are executable scripts to run different variants of RSF algorithm. 
 
